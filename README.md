@@ -1,4 +1,5 @@
 # 🤖 AI Security Lab
+Lead Developer** (Michael Lastovich)
 
 <div align="center">
 
